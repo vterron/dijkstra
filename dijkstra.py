@@ -2,7 +2,7 @@
 
 # Author: Victor Terron (c) 2015
 # Email: vterron@google.com
-# License: GNU GPLv3
+# License: Apache, Version 2.0
 
 import collections
 import csv
