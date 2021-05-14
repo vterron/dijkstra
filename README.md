@@ -1,7 +1,7 @@
 Dijkstra's algorithm
 ====================
 
-A Pythonic implementation of Dijkstra's algorithm, as shown during my keynote talk at [PyConES 2015](http://2015.es.pycon.org/en/). This implementation finds the cheapest route between any two airports in the world. As we do not have actual data on all flight prices, this implementation assumes that fares are directly proportional to the traveled distance. This means that what we are therefore actually minimizing is the total distance, following a route as close as possible to the [great-circle arc](https://en.wikipedia.org/wiki/Haversine_formula) between the two airports.
+A Pythonic implementation of Dijkstra's algorithm, as shown during my keynote talk at [PyConES 2015](https://2015.es.pycon.org/en.html). This implementation finds the cheapest route between any two airports in the world. As we do not have actual data on all flight prices, this implementation assumes that fares are directly proportional to the traveled distance. This means that what we are therefore actually minimizing is the total distance, following a route as close as possible to the [great-circle arc](https://en.wikipedia.org/wiki/Haversine_formula) between the two airports.
 
 To use the code, follow these steps:
 
